@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://hobinjk.github.io/gw2blog/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://hobinjk.github.io/gw2blog/tags/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://hobinjk.github.io/gw2blog/</loc>
   </url>
   
 </urlset>
