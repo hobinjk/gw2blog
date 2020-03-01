@@ -3,15 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hobinjk.github.io/gw2blog/about/</loc>
+    <lastmod>2020-03-01T02:07:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hobinjk.github.io/gw2blog/</loc>
+    <lastmod>2020-03-01T02:07:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hobinjk.github.io/gw2blog/posts/</loc>
+    <lastmod>2020-02-26T00:17:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hobinjk.github.io/gw2blog/posts/whisper-guide/</loc>
+    <lastmod>2020-02-26T00:17:26-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hobinjk.github.io/gw2blog/categories/</loc>
   </url>
   
   <url>
     <loc>https://hobinjk.github.io/gw2blog/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hobinjk.github.io/gw2blog/</loc>
   </url>
   
 </urlset>
